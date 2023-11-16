@@ -6,6 +6,7 @@ module.exports = {
           require('tailwindcss'),
           require('autoprefixer'),
         ],
+        base: 'https://github.com/marcelopaivag/client.git'
       },
     },
   }

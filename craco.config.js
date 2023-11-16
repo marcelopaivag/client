@@ -9,4 +9,11 @@ module.exports = {
         base: 'client/'
       },
     },
-  }
+    webpack: {
+      alias: {
+        '@components': path.resolve(__dirname, 'src/components'),
+        '@utils': path.resolve(__dirname, 'src/utils'),
+        // Agrega más alias según sea necesario
+      },
+    },
+  } 

@@ -6,7 +6,7 @@ module.exports = {
           require('tailwindcss'),
           require('autoprefixer'),
         ],
-        base: 'client/'
+        base: '/client/'
       },
     },
   } 

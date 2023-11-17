@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9c88d43.chunk.css",
-    "main.js": "/static/js/main.e9acac86.chunk.js",
-    "main.js.map": "/static/js/main.e9acac86.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e52ffe48.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e52ffe48.js.map",
-    "static/js/2.c633ec36.chunk.js": "/static/js/2.c633ec36.chunk.js",
-    "static/js/2.c633ec36.chunk.js.map": "/static/js/2.c633ec36.chunk.js.map",
-    "static/js/3.ab55e203.chunk.js": "/static/js/3.ab55e203.chunk.js",
-    "static/js/3.ab55e203.chunk.js.map": "/static/js/3.ab55e203.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a9c88d43.chunk.css.map": "/static/css/main.a9c88d43.chunk.css.map",
-    "static/js/2.c633ec36.chunk.js.LICENSE.txt": "/static/js/2.c633ec36.chunk.js.LICENSE.txt",
-    "static/media/back.b08762be.jpg": "/static/media/back.b08762be.jpg",
-    "static/media/omtturquesa.8e29e8cb.jpg": "/static/media/omtturquesa.8e29e8cb.jpg"
+    "main.css": "/client/static/css/main.a9c88d43.chunk.css",
+    "main.js": "/client/static/js/main.e9acac86.chunk.js",
+    "main.js.map": "/client/static/js/main.e9acac86.chunk.js.map",
+    "runtime-main.js": "/client/static/js/runtime-main.aec60c90.js",
+    "runtime-main.js.map": "/client/static/js/runtime-main.aec60c90.js.map",
+    "static/js/2.c633ec36.chunk.js": "/client/static/js/2.c633ec36.chunk.js",
+    "static/js/2.c633ec36.chunk.js.map": "/client/static/js/2.c633ec36.chunk.js.map",
+    "static/js/3.ab55e203.chunk.js": "/client/static/js/3.ab55e203.chunk.js",
+    "static/js/3.ab55e203.chunk.js.map": "/client/static/js/3.ab55e203.chunk.js.map",
+    "index.html": "/client/index.html",
+    "static/css/main.a9c88d43.chunk.css.map": "/client/static/css/main.a9c88d43.chunk.css.map",
+    "static/js/2.c633ec36.chunk.js.LICENSE.txt": "/client/static/js/2.c633ec36.chunk.js.LICENSE.txt",
+    "static/media/back.b08762be.jpg": "/client/static/media/back.b08762be.jpg",
+    "static/media/omtturquesa.8e29e8cb.jpg": "/client/static/media/omtturquesa.8e29e8cb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e52ffe48.js",
+    "static/js/runtime-main.aec60c90.js",
     "static/js/2.c633ec36.chunk.js",
     "static/css/main.a9c88d43.chunk.css",
     "static/js/main.e9acac86.chunk.js"

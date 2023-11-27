@@ -40,7 +40,7 @@ export default function Header() {
 
                   <div className="flow-root" onClick={toggleMobileSidebar}>
                     <Link to="/">
-                      <img className="h-8 w-auto" src='https://res.cloudinary.com/dbteftlej/image/upload/v1701107797/omtstorelogo_grnm0n.png' alt="Logo omt" />
+                      <img className="h-8 w-auto" src='https://res.cloudinary.com/dbteftlej/image/upload/v1701107797/omtstorelogo_grnm0n.png' alt="omtstorelogo" />
                     </Link>
                   </div>
 

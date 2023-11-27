@@ -108,7 +108,7 @@ export default function Header() {
                 <Link to="/">
                   <div className="ml-4 mr-4 flex lg:ml-0">
 
-                    <img className="h-8 w-auto" src={Logo} alt="Logo OMT" />
+                    <img className="h-8 w-auto" src='https://res.cloudinary.com/dbteftlej/image/upload/v1701107797/omtstorelogo_grnm0n.png' alt="Logo OMT" />
                     <span className="font-medium italic mt-1">OMT Store</span>
 
                   </div>
